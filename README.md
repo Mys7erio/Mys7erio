@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🙋I am an **Undergrad CS Student / Full Stack Developer / Cyber-Security Enthusiast**
 <br>
 🔭 I’m currently working on **[An Asynchronous Python Torrent Library](https://github.com/Mys7erio/aiotorrent)**
@@ -9,14 +10,17 @@
 <br>
 💬 Ask me about **Javascript Frameworks, Python Programming, Graphics Designing & Cyber-Security**
 <br>
-🚀 My website **https://aliviation.online**
+🚀 My website **https://aliviation.me**
 <br>
-📧 Contact me at **[me@aliviation.online](mailto://me@aliviation.online)**
-<br>
-<br>
+📄 Checkout my Resume at **[https://resume.aliviation.me](https://resume.aliviation.me)**
 
+<!-- 📧 Contact me at **[me@aliviation.online](mailto://me@aliviation.online)** -->
+
+<!-- <br> -->
+<br>
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.viation)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirali02)
 [![](https://visitcount.itsvg.in/api?id=Mys7erio&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -49,13 +53,13 @@
 <br>
 <br>
 
-
 # 📊 GitHub Stats:
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Mys7erio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mys7erio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mys7erio&theme=dark&hide_border=false)<br/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
