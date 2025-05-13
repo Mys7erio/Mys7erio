@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🙋I am an **Postgrad CS Student / Full Stack Developer / DevOps Engineer / Cyber-Security Enthusiast**
+🙋I am a **Postgrad CS Student / Full Stack Developer / DevOps Engineer / Cyber-Security Enthusiast**
 <br>
 🔭 I’m currently working on **[An Asynchronous Python Torrent Library](https://github.com/Mys7erio/aiotorrent)**
 <br>
