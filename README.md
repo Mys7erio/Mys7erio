@@ -10,9 +10,7 @@
 <br>
 💬 Ask me about **Javascript Frameworks, Python Programming, Graphics Designing, Cyber-Security and Automation**
 <br>
-🚀 My website **https://aliviation.me**
-<br>
-📄 Checkout my Resume at **[https://resume.aliviation.me](https://resume.aliviation.me)**
+🚀 My website **https://alvn.xyz**w
 
 
 <!-- <br> -->
