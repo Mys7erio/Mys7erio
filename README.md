@@ -10,7 +10,7 @@
 <br>
 💬 Ask me about **Javascript Frameworks, Python Programming, Graphics Designing, Cyber-Security and Automation**
 <br>
-🚀 My website **https://alvn.xyz**w
+🚀 My website **https://alvn.xyz**
 
 
 <!-- <br> -->
