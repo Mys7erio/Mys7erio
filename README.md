@@ -18,8 +18,10 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirali02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shakirali02)
 [![](https://visitcount.itsvg.in/api?id=Mys7erio&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Mys7erio&style=for-the-badge&label=GITHUB+PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?account_id=25553029)
 <br>
 <br>
 
